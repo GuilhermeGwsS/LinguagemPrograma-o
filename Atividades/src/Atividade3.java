@@ -1,0 +1,4 @@
+
+public interface Atividade3 {
+
+}
